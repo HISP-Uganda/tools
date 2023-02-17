@@ -20,6 +20,7 @@ const api = axios.create({
 
 const download = async (startPage = 1, pageSize = 500) => {
   let instances = [];
+  console.log("Fetching first page");
   const {
     data: { trackedEntityInstances, ...rest },
   } = await api.get("trackedEntityInstances", {
@@ -32,6 +33,8 @@ const download = async (startPage = 1, pageSize = 500) => {
       totalPages: true,
     },
   });
+
+  console.log("Finished fetching first page");
 
   const processed = trackedEntityInstances.map(({ attributes }) =>
     fromPairs(attributes.map(({ displayName, value }) => [displayName, value]))
