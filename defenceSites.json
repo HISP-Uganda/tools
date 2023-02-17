@@ -1,0 +1,1414 @@
+[
+  {
+    "name": "Koboko HC II",
+    "id": "Mfxa52fh9Fc"
+  },
+  {
+    "name": "Gulu HC III",
+    "id": "afGTmR6EesS"
+  },
+  {
+    "name": "Buwama HC II",
+    "id": "rkcbIAhqxp7"
+  },
+  {
+    "name": "Kiira Road HC II",
+    "id": "VShK9NlDa9S"
+  },
+  {
+    "name": "Mechanical Workshop Clinic HC II",
+    "id": "bDhd8xPPaT7"
+  },
+  {
+    "name": "Luwero Clinic HC II",
+    "id": "zISOKu7R0Yy"
+  },
+  {
+    "name": "Kiboga HC II",
+    "id": "RK75MaOWsiE"
+  },
+  {
+    "name": "Mbarara HC III",
+    "id": "xLi1cv6UPxT"
+  },
+  {
+    "name": "Old Kampala HC II",
+    "id": "bljty0SyQvL"
+  },
+  {
+    "name": "Masaka HC III",
+    "id": "SWWHTLQjZXW"
+  },
+  {
+    "name": "Mpigi HC II",
+    "id": "IovA7MWZaP4"
+  },
+  {
+    "name": "Kalangala Clinic",
+    "id": "l9nJ36E5ova"
+  },
+  {
+    "name": "Mbale HC III",
+    "id": "xJtAHm83ULs"
+  },
+  {
+    "name": "Soroti HC III",
+    "id": "KYMxfFztCFl"
+  },
+  {
+    "name": "Sironko HC II",
+    "id": "sdgB0EP8oLo"
+  },
+  {
+    "name": "Nebbi Station HC II",
+    "id": "Kv8JwHsq4hU"
+  },
+  {
+    "name": "Kalisizo HC II",
+    "id": "di4DmrdqB4K"
+  },
+  {
+    "name": "Isingiro HC II",
+    "id": "AULdz853paf"
+  },
+  {
+    "name": "Bugiri HC II",
+    "id": "mDDQrbbC8wK"
+  },
+  {
+    "name": "Lira HC II",
+    "id": "txg2NyXpr9D"
+  },
+  {
+    "name": "Kawempe Medical Centre HC II",
+    "id": "owOVNT2yPYd"
+  },
+  {
+    "name": "Kayunga HC II",
+    "id": "Hdfxcx6XAxf"
+  },
+  {
+    "name": "Training School HC IV",
+    "id": "aUudvS1prRU"
+  },
+  {
+    "name": "Nakabugu HC II",
+    "id": "CsKbpZmPZK6"
+  },
+  {
+    "name": "Adjumani HC II",
+    "id": "mZWFol2c0sc"
+  },
+  {
+    "name": "Kaberamaido HC II",
+    "id": "sKqfvslNASd"
+  },
+  {
+    "name": "Busunju HC II",
+    "id": "k3WymbF3pFL"
+  },
+  {
+    "name": "Pallisa HC II",
+    "id": "jYd77jC7ho6"
+  },
+  {
+    "name": "Mubende HC II",
+    "id": "dJVAxcfHq5Z"
+  },
+  {
+    "name": "Sembabule HC II",
+    "id": "NVZsuJOAQcs"
+  },
+  {
+    "name": "Kasese HC II",
+    "id": "xjlzfFpQMEP"
+  },
+  {
+    "name": "Kisoro HC II",
+    "id": "y5TRay9JL2E"
+  },
+  {
+    "name": "Hoima HC II",
+    "id": "o7OluoErEud"
+  },
+  {
+    "name": "Pader HC II",
+    "id": "Ktv5BDJekYa"
+  },
+  {
+    "name": "Bushenyi HC II",
+    "id": "eYiJZrdc3Eh"
+  },
+  {
+    "name": "Katwe HC II",
+    "id": "BbMm9NF0VVB"
+  },
+  {
+    "name": "Ntungamo HC II",
+    "id": "Vr4JZWtsFr4"
+  },
+  {
+    "name": "Mukono HC II",
+    "id": "Dklgbui5iFp"
+  },
+  {
+    "name": "Kapchorwa HC II",
+    "id": "BgtgUtz9C4V"
+  },
+  {
+    "name": "Wandegeya HC II",
+    "id": "AIqpNaeckvv"
+  },
+  {
+    "name": "Kitgum HC II",
+    "id": "v3S6pvqS63U"
+  },
+  {
+    "name": "Rukungiri HC II",
+    "id": "krX5G0oMDPX"
+  },
+  {
+    "name": "Masindi HC II",
+    "id": "g5Q9oM0Y0p4"
+  },
+  {
+    "name": "Kumi HC II",
+    "id": "GhxBlhZQKq6"
+  },
+  {
+    "name": "Naggalama HC II",
+    "id": "UKShRNUHBZR"
+  },
+  {
+    "name": "Moroto HC II",
+    "id": "X0fEezWmMGU"
+  },
+  {
+    "name": "Busia HC II",
+    "id": "ENNiBZmoBma"
+  },
+  {
+    "name": "Nsambya HC IV",
+    "id": "nBjhoOrem20"
+  },
+  {
+    "name": "Kaabong HC II",
+    "id": "jA2J5SPFVkZ"
+  },
+  {
+    "name": "Lugazi HC II",
+    "id": "qYZPZV35BRO"
+  },
+  {
+    "name": "Nakasongola HC II",
+    "id": "OaDLSKkKwgW"
+  },
+  {
+    "name": "Central Clinic HC II",
+    "id": "daP4oqNIRz4"
+  },
+  {
+    "name": "Kibaale Clinic HC II",
+    "id": "oOf8N3iGy5X"
+  },
+  {
+    "name": "Apac HC II",
+    "id": "W83VWHmb5NW"
+  },
+  {
+    "name": "Arua HC III",
+    "id": "Oib4aFmRmve"
+  },
+  {
+    "name": "Tororo HC III",
+    "id": "dPHGsGPWCmY"
+  },
+  {
+    "name": "Kyenjojo HC II",
+    "id": "aQ7USWbUHsH"
+  },
+  {
+    "name": "Kabale HC II",
+    "id": "RZROGan6ufO"
+  },
+  {
+    "name": "Jinja Road HC II",
+    "id": "zs1xuKbwXfv"
+  },
+  {
+    "name": "Moyo HC II",
+    "id": "iEcyFdCOqes"
+  },
+  {
+    "name": "Nalufenya HC II",
+    "id": "QhrKOmDWaEk"
+  },
+  {
+    "name": "Kamuli HC II",
+    "id": "Y7Bm1DULPCy"
+  },
+  {
+    "name": "Mityana HC II",
+    "id": "Ejdi6Jyb4g5"
+  },
+  {
+    "name": "Jinja HC III",
+    "id": "QPEq1rVFQA7"
+  },
+  {
+    "name": "Bukwo HC II",
+    "id": "xwJzotSwW81"
+  },
+  {
+    "name": "Kotido HC II",
+    "id": "h9jVjUlxXLc"
+  },
+  {
+    "name": "Namayingo HC II",
+    "id": "J3OMg4XNkPh"
+  },
+  {
+    "name": "Yumbe HC II",
+    "id": "MBn7aFC3OAv"
+  },
+  {
+    "name": "Naguru HC IV",
+    "id": "foJ1bGX8luE"
+  },
+  {
+    "name": "Katakwi HC II",
+    "id": "V8OdiScWoBe"
+  },
+  {
+    "name": "Makindye HC III",
+    "id": "OXG3d4gPJpC"
+  },
+  {
+    "name": "Bundibugyo HC II",
+    "id": "aHKM6JrvYM2"
+  },
+  {
+    "name": "Kabalagala HC II",
+    "id": "MYW6CCYGe2A"
+  },
+  {
+    "name": "Clinic (Kabarole) HC III",
+    "id": "NbHdwbrEl5D"
+  },
+  {
+    "name": "Kassanda HC II",
+    "id": "fQSolUENTro"
+  },
+  {
+    "name": "Bukwo HC II",
+    "id": "xP7LsYRr2gH"
+  },
+  {
+    "name": "Sentemas HC II",
+    "id": "HwS2kw2skOQ"
+  },
+  {
+    "name": "Kamwenge  Hc II",
+    "id": "wtyMvPnfdEI"
+  },
+  {
+    "name": "Loro HC II",
+    "id": "QqmvGCcxjPN"
+  },
+  {
+    "name": "Mugoye HC II",
+    "id": "jt81fBJcjq6"
+  },
+  {
+    "name": "Kabula HC II",
+    "id": "l2cANoyAws0"
+  },
+  {
+    "name": "Kamulis HC II",
+    "id": "MbDNuTAMTyR"
+  },
+  {
+    "name": "Kitgum HC II",
+    "id": "MvWfNbmsyfy"
+  },
+  {
+    "name": "Rukungiris HC II",
+    "id": "a671pOYElqv"
+  },
+  {
+    "name": "Kigandalo Clinic",
+    "id": "Yh1BzXBQqWd"
+  },
+  {
+    "name": "Bubukwanga HC II",
+    "id": "owc2E5nFsSu"
+  },
+  {
+    "name": "Bulawula HC II",
+    "id": "UN3lcl5OAuc"
+  },
+  {
+    "name": "Namalemba Clinic",
+    "id": "gXUND0IUqBh"
+  },
+  {
+    "name": "Kabasanda  HC II",
+    "id": "C6mAtukYNit"
+  },
+  {
+    "name": "Lwemiyaga Clinic",
+    "id": "jp0HMvOBvqD"
+  },
+  {
+    "name": "Amita HC II",
+    "id": "Owvv3PbIrZ2"
+  },
+  {
+    "name": "Bugungu HC II",
+    "id": "idkNxrymxSW"
+  },
+  {
+    "name": "Myanzi HC II",
+    "id": "Muqrt432HME"
+  },
+  {
+    "name": "Nkozi HC II",
+    "id": "E3rQ1edYpNL"
+  },
+  {
+    "name": "Lugazi HC II",
+    "id": "WOqRCuNycSZ"
+  },
+  {
+    "name": "Nakatunya Clinic",
+    "id": "dHFUXmzOPTp"
+  },
+  {
+    "name": "Bugiris HC II",
+    "id": "pF5GkN2tzmp"
+  },
+  {
+    "name": "Paidha HC II",
+    "id": "xrqX9NsoWWe"
+  },
+  {
+    "name": "Kaberamaidos Clinic",
+    "id": "K4034C0ZnRg"
+  },
+  {
+    "name": "Agule  Clinic",
+    "id": "cVcvIS0HJ12"
+  },
+  {
+    "name": "Buliisa HC II",
+    "id": "UweCy3072B5"
+  },
+  {
+    "name": "Mukuju HC II",
+    "id": "QvUu1yRHZT4"
+  },
+  {
+    "name": "Busedde Clinic",
+    "id": "KqVp007zQOY"
+  },
+  {
+    "name": "Kotidos HC II",
+    "id": "Ia1ewqcyAFT"
+  },
+  {
+    "name": "Mityanas HC II",
+    "id": "BZb3cYmrXML"
+  },
+  {
+    "name": "Kasangatis HC II",
+    "id": "QFOa8qB40AG"
+  },
+  {
+    "name": "Amuria HC II",
+    "id": "cd8AJF2SV0o"
+  },
+  {
+    "name": "Buhweju HC II",
+    "id": "TTxb0snZcXk"
+  },
+  {
+    "name": "Kijumba HC II",
+    "id": "QJgCZMxzsXs"
+  },
+  {
+    "name": "Kaweeris HC II",
+    "id": "HKw4Bu0mBp5"
+  },
+  {
+    "name": "Kakoro  Clinic",
+    "id": "V5V0JDSbfo5"
+  },
+  {
+    "name": "Otuke Clinic",
+    "id": "iAbxpdJocQR"
+  },
+  {
+    "name": "Kiruhuras Clinic",
+    "id": "cT9AXrxPMu7"
+  },
+  {
+    "name": "Oyam Mains HC II",
+    "id": "h7wpkDly8qZ"
+  },
+  {
+    "name": "Jinja Main HC III",
+    "id": "aITcTSaL6bT"
+  },
+  {
+    "name": "Masaka-Ssazas HC II",
+    "id": "e9ClLYWDcre"
+  },
+  {
+    "name": "Butiiti HC II",
+    "id": "D3ds26FzLrD"
+  },
+  {
+    "name": "Kabira Clinic",
+    "id": "ojyt3e5mAXN"
+  },
+  {
+    "name": "Yumbe HC II",
+    "id": "lujOmE8X8vB"
+  },
+  {
+    "name": "Kyenjojo HC II",
+    "id": "odJGvwu2B5W"
+  },
+  {
+    "name": "Magala  Clinic",
+    "id": "Pwzv4VQ0e5m"
+  },
+  {
+    "name": "Kiseka Clinic",
+    "id": "juwYMigGSry"
+  },
+  {
+    "name": "Galilaya Clinic",
+    "id": "OI9iFC8cwsU"
+  },
+  {
+    "name": "Rakai HC II",
+    "id": "ZMMthAZGrfT"
+  },
+  {
+    "name": "Kalangala HC II",
+    "id": "paN9PlHkDPN"
+  },
+  {
+    "name": "Mukungwe Clinic",
+    "id": "fnjz6n2gdVc"
+  },
+  {
+    "name": "Nakasongola Women HC II",
+    "id": "RgMEK3zM3Lc"
+  },
+  {
+    "name": "Pader HC II",
+    "id": "wAhWIDAZWJ6"
+  },
+  {
+    "name": "Lobule Clinic",
+    "id": "lRz1KKqUsJt"
+  },
+  {
+    "name": "Bidi Bidi HC II",
+    "id": "WesT5GAXGF1"
+  },
+  {
+    "name": "Kakira Clinic",
+    "id": "MwZBzDVFYNu"
+  },
+  {
+    "name": "Katakwis HC II",
+    "id": "HXq1Fb10i3f"
+  },
+  {
+    "name": "Kyegegwa HC II",
+    "id": "JfA83mUfpl0"
+  },
+  {
+    "name": "Mateete HC II",
+    "id": "Q5v3bgajzv7"
+  },
+  {
+    "name": "Mubuku HC II",
+    "id": "al3dwgwyMOl"
+  },
+  {
+    "name": "Kiryandongo Clinic HC II",
+    "id": "zeaG7Xw7i37"
+  },
+  {
+    "name": "Nawanyago Clinic",
+    "id": "GA0249i0Bzz"
+  },
+  {
+    "name": "Nakapiripirit HC II",
+    "id": "pefbTxE2yCt"
+  },
+  {
+    "name": "Kayonza Clinic",
+    "id": "OGo58TYk6SY"
+  },
+  {
+    "name": "Butagaya Clinic",
+    "id": "LIHDXxuAjap"
+  },
+  {
+    "name": "Serere HC II",
+    "id": "uUv7f3M0T7Y"
+  },
+  {
+    "name": "Arua Women HC II",
+    "id": "xyPQWpIId6U"
+  },
+  {
+    "name": "Masaka Women HC II",
+    "id": "QvE1R4zEPN6"
+  },
+  {
+    "name": "Giligili HC II",
+    "id": "f4yLtyMDUxW"
+  },
+  {
+    "name": "Wabusaana Clinic",
+    "id": "bZ1EuC1JaU9"
+  },
+  {
+    "name": "Butiaba Clinic",
+    "id": "lMr05lCgQaF"
+  },
+  {
+    "name": "Kasanje Clinic",
+    "id": "fGN8t72bvbv"
+  },
+  {
+    "name": "Lwebitakuli Clinic",
+    "id": "NEwKT2GxVYC"
+  },
+  {
+    "name": "Kitalyas HC II",
+    "id": "jM0QE9Wtu6L"
+  },
+  {
+    "name": "Biiso Clinic",
+    "id": "gblhiMWyc1S"
+  },
+  {
+    "name": "Ngora HC II",
+    "id": "CCnbE8KrwPh"
+  },
+  {
+    "name": "Kisoro HC II",
+    "id": "vJ60kObyiWo"
+  },
+  {
+    "name": "Masindi Main HC III",
+    "id": "sOGx0iAe1fF"
+  },
+  {
+    "name": "Kabonera Clinic",
+    "id": "YzMnQsfUb0A"
+  },
+  {
+    "name": "Bigasa Clinic",
+    "id": "hnDCZkHHZhx"
+  },
+  {
+    "name": "Kyamuliibwa Clinic",
+    "id": "jXQTE3xshhK"
+  },
+  {
+    "name": "Iganga HC II",
+    "id": "jrCQHd9oRg6"
+  },
+  {
+    "name": "Butenga Clinic",
+    "id": "EEobwt2M1yY"
+  },
+  {
+    "name": "Ngenge HC II",
+    "id": "EHC6y2pSqi6"
+  },
+  {
+    "name": "Namungalwe Clinic",
+    "id": "zW41infbHYC"
+  },
+  {
+    "name": "Buyende HC II",
+    "id": "YyMrMYzJzsf"
+  },
+  {
+    "name": "Kagadi  HC II",
+    "id": "ScR53pDzWQv"
+  },
+  {
+    "name": "Luzira HC III",
+    "id": "s2YKRj63tJX"
+  },
+  {
+    "name": "Amuru HC II ",
+    "id": "aqCLIBUuDgw"
+  },
+  {
+    "name": "Mbale HC III",
+    "id": "AtuVg4C11UO"
+  },
+  {
+    "name": "Kibogas Clinic HC II",
+    "id": "aQi3Qb160NY"
+  },
+  {
+    "name": "Kicheche HC II",
+    "id": "WzDbKyMHN8m"
+  },
+  {
+    "name": "Kayanjas Clinic HC II",
+    "id": "GjYw2dLMhU8"
+  },
+  {
+    "name": "Tororo Mains HC III",
+    "id": "BiACo115FNv"
+  },
+  {
+    "name": "Onigo HC II",
+    "id": "l3tNefJ6Uo8"
+  },
+  {
+    "name": "Kiyunga HC II",
+    "id": "yPTGuXpZMGB"
+  },
+  {
+    "name": "Masakas HC III",
+    "id": "hMXCTcwH9XJ"
+  },
+  {
+    "name": "Nagoje Clinic",
+    "id": "wp0fxwX6i4L"
+  },
+  {
+    "name": "Kitwe HC II",
+    "id": "pnmOv3soTJG"
+  },
+  {
+    "name": "Kihihi HC II",
+    "id": "ccCk8yDgf6O"
+  },
+  {
+    "name": "Kibuku Clinic",
+    "id": "BC3NNvPnXta"
+  },
+  {
+    "name": "Dokolo HC II",
+    "id": "iNWEqA1TqGM"
+  },
+  {
+    "name": "Kumi HC II",
+    "id": "IfRYINCb1dC"
+  },
+  {
+    "name": "Jinja HC III",
+    "id": "zMdacW81fkW"
+  },
+  {
+    "name": "Bwebajja HC II",
+    "id": "ThNAIRU2TiF"
+  },
+  {
+    "name": "Orom-Tikau HC II",
+    "id": "wHXti4lneOb"
+  },
+  {
+    "name": "Morotos HC II",
+    "id": "y9WL2d7Zr9p"
+  },
+  {
+    "name": "Kyakasengura HC II",
+    "id": "SCmKdlHslFu"
+  },
+  {
+    "name": "Soroti Women HC II",
+    "id": "BB0ZbzgGBl2"
+  },
+  {
+    "name": "Kigumbas HC II",
+    "id": "XI68OS3s594"
+  },
+  {
+    "name": "Olia HC II",
+    "id": "J1bAaHJwcR6"
+  },
+  {
+    "name": "Wakyato HC II",
+    "id": "L6jKrmFEaSA"
+  },
+  {
+    "name": "Buvuma HC II",
+    "id": "nz7bw6ghlow"
+  },
+  {
+    "name": "Lwengo HC II",
+    "id": "I6opAM4Y3ci"
+  },
+  {
+    "name": "Ikulwe HC II",
+    "id": "idhJ0PtGIXM"
+  },
+  {
+    "name": "Imanyiro Clinic",
+    "id": "BNQAUcLJ6qj"
+  },
+  {
+    "name": "Mutufu HC II",
+    "id": "SNsnShtQa5C"
+  },
+  {
+    "name": "Koome HC II",
+    "id": "lyWySXGtkDA"
+  },
+  {
+    "name": "Ngogwe HC II",
+    "id": "i7ZWWF44PIA"
+  },
+  {
+    "name": "Ntuusi Clinic",
+    "id": "Ow4rNuvz25Q"
+  },
+  {
+    "name": "Koboko HC II",
+    "id": "M8hfqf9VtRV"
+  },
+  {
+    "name": "Alebtong HC II",
+    "id": "CDfpt3qoQui"
+  },
+  {
+    "name": "Buwunga Clinic",
+    "id": "nJp8Gxt5NOk"
+  },
+  {
+    "name": "Kyangwali HC II",
+    "id": "ak9PptMkTZD"
+  },
+  {
+    "name": "Gulu HC III",
+    "id": "i7JbInoEb2D"
+  },
+  {
+    "name": "Bukomero HC II",
+    "id": "oesIhOYohnt"
+  },
+  {
+    "name": "Kibitos Clinic",
+    "id": "yCCHLLDEDqd"
+  },
+  {
+    "name": "Makulubita Clinic",
+    "id": "emsChAinvae"
+  },
+  {
+    "name": "Katojos HC III",
+    "id": "TSYQk88VWVI"
+  },
+  {
+    "name": "Rubanda HC II",
+    "id": "c7O20JnoqsW"
+  },
+  {
+    "name": "Peces HC II",
+    "id": "MRK5dHBnvSw"
+  },
+  {
+    "name": "Isingiro HC II",
+    "id": "aIOQEOmhFq8"
+  },
+  {
+    "name": "Lututuru Clinic",
+    "id": "Yt5KV7Q0Zp4"
+  },
+  {
+    "name": "Tororo Women HC II",
+    "id": "Rzh65XAwmdB"
+  },
+  {
+    "name": "Nabwigulu Clinic",
+    "id": "OeZIomaa5d1"
+  },
+  {
+    "name": "Bufulubi HC II",
+    "id": "gid2cWEy2rv"
+  },
+  {
+    "name": "Kangulumira HC II",
+    "id": "brezeitRr58"
+  },
+  {
+    "name": "Kyanamukaaka Clinic",
+    "id": "ltVLCvGYjES"
+  },
+  {
+    "name": "Kapeeka Clinic",
+    "id": "GPJio2NxlF8"
+  },
+  {
+    "name": "Bugambe Clinic",
+    "id": "H8Bros0p2OY"
+  },
+  {
+    "name": "Lake Katwe Clinic",
+    "id": "OHSQd2FWUzu"
+  },
+  {
+    "name": "Kaliro HC II",
+    "id": "ZAEVkGDNJbq"
+  },
+  {
+    "name": "Kiburara HC II",
+    "id": "W5vxwFIhtEY"
+  },
+  {
+    "name": "Ndagwe Clinic",
+    "id": "kGgsNgqtu65"
+  },
+  {
+    "name": "Bukedea HC II",
+    "id": "puviTrIsKYI"
+  },
+  {
+    "name": "Murchision Bay Hospital",
+    "id": "WGc7kKRhPaH"
+  },
+  {
+    "name": "Patongo HC II",
+    "id": "AbQGl8CrhXH"
+  },
+  {
+    "name": "Masindi Women HC II",
+    "id": "axJplDuglco"
+  },
+  {
+    "name": "Luzira Women HC III",
+    "id": "OdQ5ixGmXRt"
+  },
+  {
+    "name": "Nakasongolas HC III",
+    "id": "e1pByDp3Nxo"
+  },
+  {
+    "name": "Bushenyi Ugandas HC III",
+    "id": "soO4xwuSfkS"
+  },
+  {
+    "name": "Webajja Marine HC II",
+    "id": "E7Fd431JM2E"
+  },
+  {
+    "name": "Kisoko Clinic",
+    "id": "o3GAFBGPC4i"
+  },
+  {
+    "name": "Ndorwas HC II",
+    "id": "D5TwGK0bcWc"
+  },
+  {
+    "name": "Kaladima Clinic",
+    "id": "u7JAnlZqo5D"
+  },
+  {
+    "name": "Katojo Women HC II",
+    "id": "KvCHhiYhiwd"
+  },
+  {
+    "name": "Lwabenge Clinic",
+    "id": "JLpr0ATmEtz"
+  },
+  {
+    "name": "Bamunanika HC II",
+    "id": "l5IkUjOGO6K"
+  },
+  {
+    "name": "Kanoni Clinic",
+    "id": "XiuUuRV6T0D"
+  },
+  {
+    "name": "Mbarara Mains HC III",
+    "id": "nqeXmzUXubD"
+  },
+  {
+    "name": "Apacs HC II",
+    "id": "BOu0a9cWOBP"
+  },
+  {
+    "name": "Budaka HC II",
+    "id": "NbrynjWKgKo"
+  },
+  {
+    "name": "Nyimbwa HC II",
+    "id": "IdO49TffVtm"
+  },
+  {
+    "name": "Butaleja HC II",
+    "id": "NgHtzfSODK6"
+  },
+  {
+    "name": "Lira Women HC II",
+    "id": "IzO6YTh95I2"
+  },
+  {
+    "name": "Kitanda Clinic",
+    "id": "CKIdKDFwQr1"
+  },
+  {
+    "name": "Maiha Clinic",
+    "id": "pamX5YjbbG2"
+  },
+  {
+    "name": "Kalungu Clinic",
+    "id": "B8Gdr6uX7AP"
+  },
+  {
+    "name": "Kampala Remand III",
+    "id": "FyXdTT3xqY4"
+  },
+  {
+    "name": "Kitala  HC II",
+    "id": "idF5Y57Ula8"
+  },
+  {
+    "name": "Mpigi HC II",
+    "id": "Kzs1S7Hmg3e"
+  },
+  {
+    "name": "Masafu HC II",
+    "id": "R3nMap7mb9G"
+  },
+  {
+    "name": "Namalus HC II",
+    "id": "sVEZ8dNNAQQ"
+  },
+  {
+    "name": "Bwera Clinic",
+    "id": "UWGEublptUq"
+  },
+  {
+    "name": "Kakuuto Clinic",
+    "id": "ZyG79fu3Loz"
+  },
+  {
+    "name": "Kibaale HC II",
+    "id": "a5qfzrlBmym"
+  },
+  {
+    "name": "Kityerera Clinic",
+    "id": "OF7Spq6EWfw"
+  },
+  {
+    "name": "Maruzi Clinic",
+    "id": "qDkcjZfrQSe"
+  },
+  {
+    "name": "Arua Mains HC III",
+    "id": "KA7zSU5VV0V"
+  },
+  {
+    "name": "Mbarara Women HC II",
+    "id": "esrQ4hNEvPJ"
+  },
+  {
+    "name": "Bugungu Yo HC II",
+    "id": "Jk4Ws9uWKqb"
+  },
+  {
+    "name": "Mweru Clinic",
+    "id": "oMhHh2P5cRr"
+  },
+  {
+    "name": "Oyam Women HC II",
+    "id": "Gqe0GlvzA9u"
+  },
+  {
+    "name": "Amolatar HC II",
+    "id": "m22qtODTVRv"
+  },
+  {
+    "name": "Mbale Women HC II",
+    "id": "FpbnTRG4PTa"
+  },
+  {
+    "name": "Butuntumula  HC II",
+    "id": "lIIOj56WBOF"
+  },
+  {
+    "name": "Rukoki Clinic",
+    "id": "siid5CZlfWv"
+  },
+  {
+    "name": "Lugores HC II",
+    "id": "PQ5WTEpxw8U"
+  },
+  {
+    "name": "Rwimi HC III",
+    "id": "AEHNScf4j7E"
+  },
+  {
+    "name": "Soroti Mains HC III",
+    "id": "xn5R1XsfrWg"
+  },
+  {
+    "name": "Kidera Clinic",
+    "id": "MhWyHSTHrmd"
+  },
+  {
+    "name": "Nyabirango Clinic",
+    "id": "XyxKGf6XkIE"
+  },
+  {
+    "name": "Ndorwa Women HC II",
+    "id": "tEnrf2CcZNX"
+  },
+  {
+    "name": "Adjumanis HC II",
+    "id": "UTC3IbJUl4K"
+  },
+  {
+    "name": "Buwama Clinic",
+    "id": "Sd27w29lhJ8"
+  },
+  {
+    "name": "Kigo Mains HC III",
+    "id": "nS7m8RZLSNc"
+  },
+  {
+    "name": "Maliba Clinic",
+    "id": "jgW3U2iN1PY"
+  },
+  {
+    "name": "Buseruka Clinic",
+    "id": "uXjmJ85M3yr"
+  },
+  {
+    "name": "Buyinja HC II",
+    "id": "QRliGiISIP6"
+  },
+  {
+    "name": "Kapchorwa HC II",
+    "id": "bfgkO8RNEWN"
+  },
+  {
+    "name": "Butoolo HC II",
+    "id": "yJU60ukixIS"
+  },
+  {
+    "name": "Ibuga HC II",
+    "id": "RJ0MvKuvMtv"
+  },
+  {
+    "name": "Igangas HC II",
+    "id": "HfrkUP3pD0k"
+  },
+  {
+    "name": "Nyabuhikye HC II",
+    "id": "gnahoaxeI4D"
+  },
+  {
+    "name": "Nyenga HC II",
+    "id": "hRGaOONbUvP"
+  },
+  {
+    "name": "Arocha Clinic",
+    "id": "w8WMJlfIl9j"
+  },
+  {
+    "name": "Kigo Womens HC II",
+    "id": "Cmbq9SjsCCv"
+  },
+  {
+    "name": "Bukulula Clinic",
+    "id": "jnLQsh69mzw"
+  },
+  {
+    "name": "Buwambo HC II",
+    "id": "TztycccnCbq"
+  },
+  {
+    "name": "Kacheera Clinic",
+    "id": "mhVxErjxgaZ"
+  },
+  {
+    "name": "Lukaya HC II",
+    "id": "TKQovZd5iQI"
+  },
+  {
+    "name": "Abers Clinic",
+    "id": "nvvdOyxWiBW"
+  },
+  {
+    "name": "Liras HC II",
+    "id": "Ry65daFfEML"
+  },
+  {
+    "name": "Kagoma HC II",
+    "id": "sWmFAZ8bNsO"
+  },
+  {
+    "name": "Muinainas HC II",
+    "id": "sSuKdQXD9yr"
+  },
+  {
+    "name": "Ntenjeru HC II",
+    "id": "Vdv0Ft4RZpP"
+  },
+  {
+    "name": "Buikwe HC II",
+    "id": "yxDPFHbwMg3"
+  },
+  {
+    "name": "Nakifuma HC II",
+    "id": "FgldlD8VLgC"
+  },
+  {
+    "name": "Nyarushanje HC II",
+    "id": "pSrD14M5xnb"
+  },
+  {
+    "name": "Jinja Women HC II",
+    "id": "pD5pZOpv10T"
+  },
+  {
+    "name": "Isimba HC II",
+    "id": "GvcN9hPkvLZ"
+  },
+  {
+    "name": "Ivukula Clinic",
+    "id": "B7jbOFNGr0S"
+  },
+  {
+    "name": "Kwania HC II",
+    "id": "tkruzjz0rKl"
+  },
+  {
+    "name": "Busesa Clinic",
+    "id": "gzDQrezinBK"
+  },
+  {
+    "name": "Sembabule HC II",
+    "id": "Rw9rgnLDiGG"
+  },
+  {
+    "name": "Bugembe HC II",
+    "id": "EYfvbgpSbDF"
+  },
+  {
+    "name": "Erute Health Centre",
+    "id": "sRjNKfDKtKB"
+  },
+  {
+    "name": "Busaana Clinic",
+    "id": "zcKswPk0OtD"
+  },
+  {
+    "name": "Kole HC II",
+    "id": "anb0fzFhIO6"
+  },
+  {
+    "name": "Kaugas HC II",
+    "id": "djAqdNTmp8l"
+  },
+  {
+    "name": "Ntungamos HC II",
+    "id": "qjHlE1v9LP6"
+  },
+  {
+    "name": "Ntwetwe HC II",
+    "id": "mFTBDoN3n9t"
+  },
+  {
+    "name": "Kamuge HC II",
+    "id": "rfzrHzmBDeH"
+  },
+  {
+    "name": "Kyazangas HC II",
+    "id": "yjHtPXYW0ir"
+  },
+  {
+    "name": "Kalisizo Clinic HC II",
+    "id": "nlCA2HNWuFV"
+  },
+  {
+    "name": "Nakisunga HC II",
+    "id": "Lj5ibr8aice"
+  },
+  {
+    "name": "Luzira Upper HC III",
+    "id": "Kq6r9wr36GH"
+  },
+  {
+    "name": "Mitooma Clinic",
+    "id": "AV79U3nbRID"
+  },
+  {
+    "name": "Mutukulas HC II",
+    "id": "nPgZVYploaa"
+  },
+  {
+    "name": "Hoimas HC II",
+    "id": "eLuNrVHaqr2"
+  },
+  {
+    "name": "Kaiti HC II",
+    "id": "jUGYq9UJ9I0"
+  },
+  {
+    "name": "Kasaali Clinic",
+    "id": "gGtMLKXjrBS"
+  },
+  {
+    "name": "Kaabong HC II",
+    "id": "Zd0CL5Qng0B"
+  },
+  {
+    "name": "Kakiikas HC II",
+    "id": "ghR1GP2ZZAO"
+  },
+  {
+    "name": "Bubulo HC II",
+    "id": "V9XTvkr5Vr2"
+  },
+  {
+    "name": "Mparo HC II",
+    "id": "Gzi0wE7W18v"
+  },
+  {
+    "name": "Kanungu  Hc II",
+    "id": "DfXJmVbFioH"
+  },
+  {
+    "name": "Lwamaggwa Clinic",
+    "id": "mSMaB5uJzPN"
+  },
+  {
+    "name": "Ragems HC II",
+    "id": "xR0VrzoNjYi"
+  },
+  {
+    "name": "Muduuma HC II",
+    "id": "AVBY466AGbH"
+  },
+  {
+    "name": "Nebbi HC II",
+    "id": "yfjMc2DtT3H"
+  },
+  {
+    "name": "Kakumiro HC II",
+    "id": "Zypbe677euh"
+  },
+  {
+    "name": "Ngoma Clinic",
+    "id": "AcsuT1hgBhT"
+  },
+  {
+    "name": "Sanga Clinic",
+    "id": "FfHJ4yijaHt"
+  },
+  {
+    "name": "Bushenyi Women HC II",
+    "id": "cdVSJIameMk"
+  },
+  {
+    "name": "Lamwo HC II ",
+    "id": "EsNOJ2SO3pj"
+  },
+  {
+    "name": "Gulu Women HC II",
+    "id": "pVtYCy55mn4"
+  },
+  {
+    "name": "Nakasongola Hospital",
+    "id": "Jn7Sz79BL2v"
+  },
+  {
+    "name": "309 Brigade Moyo HC III",
+    "id": "iNLsVN6SOQg"
+  },
+  {
+    "name": "Uganda HC II",
+    "id": "a8HZJttEnAD"
+  },
+  {
+    "name": "Armoured Brigade HC III",
+    "id": "bm9191Y8XWN"
+  },
+  {
+    "name": "Bombo General Hospital",
+    "id": "MH0SVcF6X2F"
+  },
+  {
+    "name": "Gulu Hospital",
+    "id": "x1UaYpPwx6c"
+  },
+  {
+    "name": "Arua HC II",
+    "id": "GoUl8ozX4OU"
+  },
+  {
+    "name": "Bondo HC III",
+    "id": "pFEBNrLpegZ"
+  },
+  {
+    "name": "Oscar Battalion HC II",
+    "id": "gdsxa9EwgAJ"
+  },
+  {
+    "name": "405 Brigade HC III",
+    "id": "W3hXYmtaQ4Q"
+  },
+  {
+    "name": "Katabi HC III",
+    "id": "FMhE2V9s2bo"
+  },
+  {
+    "name": "Eng Brigade Lugazi HC III",
+    "id": "VWQL8uhCRH4"
+  },
+  {
+    "name": "5th Division HC IV",
+    "id": "auzuV39xOTU"
+  },
+  {
+    "name": "Adyeda Baracks HC II",
+    "id": "NYF35p8MsAW"
+  },
+  {
+    "name": "Marine HC II",
+    "id": "O4srstZgm0D"
+  },
+  {
+    "name": "Pajimo HC II",
+    "id": "QpXYf9Wb3CQ"
+  },
+  {
+    "name": "Mbuya Clinic",
+    "id": "zrRBi7DSECl"
+  },
+  {
+    "name": "Katuugo Training School HC II",
+    "id": "PH3sr09fZS8"
+  },
+  {
+    "name": "Masindi HC IV",
+    "id": "a4dl1FKIVQJ"
+  },
+  {
+    "name": "Rubongi Hospital",
+    "id": "ZVwFNyBsJxz"
+  },
+  {
+    "name": "303 HC II",
+    "id": "atHXbhmWAsh"
+  }
+]
